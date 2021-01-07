@@ -1,0 +1,37 @@
+D:\Projects\WkHtml2Image\WkHtml2Image.Example.WebServer\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projects\WkHtml2Image\WkHtml2Image.Example.WebServer\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projects\WkHtml2Image\WkHtml2Image.Example.WebServer\bin\Debug\netcoreapp3.1\WkHtml2Image.Example.WebServer.exe
+D:\Projects\WkHtml2Image\WkHtml2Image.Example.WebServer\bin\Debug\netcoreapp3.1\WkHtml2Image.Example.WebServer.deps.json
+D:\Projects\WkHtml2Image\WkHtml2Image.Example.WebServer\bin\Debug\netcoreapp3.1\WkHtml2Image.Example.WebServer.runtimeconfig.json
+D:\Projects\WkHtml2Image\WkHtml2Image.Example.WebServer\bin\Debug\netcoreapp3.1\WkHtml2Image.Example.WebServer.runtimeconfig.dev.json
+D:\Projects\WkHtml2Image\WkHtml2Image.Example.WebServer\bin\Debug\netcoreapp3.1\WkHtml2Image.Example.WebServer.dll
+D:\Projects\WkHtml2Image\WkHtml2Image.Example.WebServer\bin\Debug\netcoreapp3.1\WkHtml2Image.Example.WebServer.pdb
+D:\Projects\WkHtml2Image\WkHtml2Image.Example.WebServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\WkHtml2Image\WkHtml2Image.Example.WebServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\WkHtml2Image\WkHtml2Image.Example.WebServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+D:\Projects\WkHtml2Image\WkHtml2Image.Example.WebServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Projects\WkHtml2Image\WkHtml2Image.Example.WebServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\WkHtml2Image\WkHtml2Image.Example.WebServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Projects\WkHtml2Image\WkHtml2Image.Example.WebServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Projects\WkHtml2Image\WkHtml2Image.Example.WebServer\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\WkHtml2Image\WkHtml2Image.Example.WebServer\bin\Debug\netcoreapp3.1\WkHtml2Image.dll
+D:\Projects\WkHtml2Image\WkHtml2Image.Example.WebServer\bin\Debug\netcoreapp3.1\WkHtml2Image.pdb
+D:\Projects\WkHtml2Image\WkHtml2Image.Example.WebServer\obj\Debug\netcoreapp3.1\WkHtml2Image.Example.WebServer.csprojAssemblyReference.cache
+D:\Projects\WkHtml2Image\WkHtml2Image.Example.WebServer\obj\Debug\netcoreapp3.1\WkHtml2Image.Example.WebServer.AssemblyInfoInputs.cache
+D:\Projects\WkHtml2Image\WkHtml2Image.Example.WebServer\obj\Debug\netcoreapp3.1\WkHtml2Image.Example.WebServer.AssemblyInfo.cs
+D:\Projects\WkHtml2Image\WkHtml2Image.Example.WebServer\obj\Debug\netcoreapp3.1\WkHtml2Image.Example.WebServer.csproj.CoreCompileInputs.cache
+D:\Projects\WkHtml2Image\WkHtml2Image.Example.WebServer\obj\Debug\netcoreapp3.1\WkHtml2Image.Example.WebServer.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\WkHtml2Image\WkHtml2Image.Example.WebServer\obj\Debug\netcoreapp3.1\staticwebassets\WkHtml2Image.Example.WebServer.StaticWebAssets.Manifest.cache
+D:\Projects\WkHtml2Image\WkHtml2Image.Example.WebServer\obj\Debug\netcoreapp3.1\staticwebassets\WkHtml2Image.Example.WebServer.StaticWebAssets.xml
+D:\Projects\WkHtml2Image\WkHtml2Image.Example.WebServer\obj\Debug\netcoreapp3.1\scopedcss\bundle\WkHtml2Image.Example.WebServer.styles.css
+D:\Projects\WkHtml2Image\WkHtml2Image.Example.WebServer\obj\Debug\netcoreapp3.1\WkHtml2Image.Example.WebServer.RazorTargetAssemblyInfo.cache
+D:\Projects\WkHtml2Image\WkHtml2Image.Example.WebServer\obj\Debug\netcoreapp3.1\WkHtml2Image.Example.WebServer.csproj.CopyComplete
+D:\Projects\WkHtml2Image\WkHtml2Image.Example.WebServer\obj\Debug\netcoreapp3.1\WkHtml2Image.Example.WebServer.dll
+D:\Projects\WkHtml2Image\WkHtml2Image.Example.WebServer\obj\Debug\netcoreapp3.1\WkHtml2Image.Example.WebServer.pdb
+D:\Projects\WkHtml2Image\WkHtml2Image.Example.WebServer\obj\Debug\netcoreapp3.1\WkHtml2Image.Example.WebServer.genruntimeconfig.cache
+D:\Projects\WkHtml2Image\WkHtml2Image.Example.WebServer\bin\Debug\netcoreapp3.1\lib\32 bit\libwkhtmltox.dll
+D:\Projects\WkHtml2Image\WkHtml2Image.Example.WebServer\bin\Debug\netcoreapp3.1\lib\32 bit\libwkhtmltox.dylib
+D:\Projects\WkHtml2Image\WkHtml2Image.Example.WebServer\bin\Debug\netcoreapp3.1\lib\32 bit\libwkhtmltox.so
+D:\Projects\WkHtml2Image\WkHtml2Image.Example.WebServer\bin\Debug\netcoreapp3.1\lib\64 bit\libwkhtmltox.dll
+D:\Projects\WkHtml2Image\WkHtml2Image.Example.WebServer\bin\Debug\netcoreapp3.1\lib\64 bit\libwkhtmltox.dylib
+D:\Projects\WkHtml2Image\WkHtml2Image.Example.WebServer\bin\Debug\netcoreapp3.1\lib\64 bit\libwkhtmltox.so
