@@ -1,0 +1,47 @@
+﻿
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+
+
+# Compiled binary addons (https://nodejs.org/api/addons.html)
+build/Release
+
+
+
+# dotenv environment variables file
+.env
+
+
+.DS_Store
+
+**/bin
+**/obj
+
+.vs
+
+**/.vs
+**/.vscode
+
+
+# local env files
+.env.local
+.env.*.local
+
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj.user
+*.sw?
+*.csproj.user
+*.dcproj.user
+*.njsproj.user
+*.prettierrc
+*.DotSettings.user
+*.dotsettings.user
