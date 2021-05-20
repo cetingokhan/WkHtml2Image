@@ -50,3 +50,19 @@ You can also use ConvertionSetting class for more detailed configurations listed
 - Transparancy
 - Screen Width & Height
 - Quality
+
+
+If you want to use diffrent wkhtml2x libraries you can download here(https://wkhtmltopdf.org/downloads.html). You should add libraries in your project like these;
+```
+/SolutionFolder
+   /ProjectFolder
+     /lib
+       /32 Bit
+          /libwkhtmltox.dll
+          /libwkhtmltox.dylib
+          /libwkhtmltox.so
+       /64 Bit
+          /libwkhtmltox.dll
+          /libwkhtmltox.dylib
+          /libwkhtmltox.so
+```
