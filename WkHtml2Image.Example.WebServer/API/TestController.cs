@@ -33,7 +33,7 @@ namespace WkHtml2Image.Example.WebServer.API
             var sampleContent = @"<html>
                             <head></head>
                             <body>
-                                <div style='margin: 0 auto; width: 400px; background-color:yellow; text-align:center; font-size:18pt;'>Hellooooo</div>
+                                <div style='margin: 0 auto; width: 400px; height:400px; background-color:yellow; text-align:center; font-size:18pt;'>Hellooooo</div>
                             </body>
                            </html>";
 
@@ -41,5 +41,7 @@ namespace WkHtml2Image.Example.WebServer.API
 
             return File(result, "image/png", "result.png");
         }
+
+        
     }
 }

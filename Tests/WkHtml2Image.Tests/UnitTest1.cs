@@ -38,8 +38,9 @@ namespace WkHtml2Image.Tests
 
         [Fact]
         public async Task FromUrl()
-        {
-            WkHtml2ImageConverter converter = new WkHtml2ImageConverter(_options, _mockLogger.Object);
+        {           
+
+            WkHtml2ImageConverter converter = new WkHtml2ImageConverter(_options.Value, _mockLogger.Object);
 
             var result = await converter.Convert(new Uri("http://www.google.com.tr/"), ImageFormat.Png);
             Assert.NotNull(result);

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace WkHtml2Image.Engine
 {
-    public sealed class ImageConverterTools : IDisposable
+    internal sealed class ImageConverterTools : IDisposable
     {
         public bool IsInitialized { get; private set; }
 
@@ -24,7 +24,7 @@ namespace WkHtml2Image.Engine
 
         public bool ExtendedQt()
         {
-            return WkHtmlToXBindings.wkhtmltoimage_extended_qt() == 1 ? true : false;
+            return WkHtmlToXBindings.wkhtmltoimage_extended_qt() == 1;
         }
 
         public string GetLibraryVersion()
