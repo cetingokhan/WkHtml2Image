@@ -1,12 +1,14 @@
 # WkHtml2Image
 Html to Image converter (based on wkhtmltox)
 
+## Install
+```
+> Install-Package WkHtml2Image
+```
 
-Install-Package WkHtml2Image
+## Using on API Controller
 
-Using on API Controller
-
-Startup.cs
+#### Startup.cs
 
 ```csharp
 public void ConfigureServices(IServiceCollection services)
@@ -17,7 +19,7 @@ public void ConfigureServices(IServiceCollection services)
 }
 ```
 
-Controller class file
+#### Controller class file
 ```csharp
 private readonly IWkHtml2ImageConverter _wkHtml2ImageConverter;
 
@@ -28,12 +30,12 @@ public TestController(IWkHtml2ImageConverter wkHtml2ImageConverter)
 ```
 
 
-Using with URL
+#### Using with URL
 ```csharp
 var result = await _wkHtml2ImageConverter.Convert(new Uri("http://www.google.com/"), ImageFormat.Png);
 ```
 
-Using with HTML Content
+#### Using with HTML Content
 ```csharp
 var sampleContent = @"<html>
                   <head></head>
